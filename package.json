@@ -1,0 +1,19 @@
+{
+  "name": "pyecharts-assets",
+  "version": "1.0.0",
+  "description": "All javascript assets known in pyecharts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C.W.",
+  "license": "MIT",
+  "devDependencies": {
+    "echarts-china-cities-js": "^0.1.0",
+    "echarts-china-provinces-js": "^1.0.0",
+    "echarts-countries-js": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "jupyter-echarts": "^1.3.7"
+  },
+  "dependencies": {}
+}
