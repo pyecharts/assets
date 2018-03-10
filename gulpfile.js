@@ -9,7 +9,9 @@ const FILES =[
   './node_modules/jupyter-echarts/echarts/*.js',
   './node_modules/echarts-countries-js/echarts-countries-js/*.js',
   './node_modules/echarts-china-provinces-js/echarts-china-provinces-js/*.js',
-  './node_modules/echarts-china-cities-js/echarts-china-cities-js/*.js'
+  './node_modules/echarts-china-cities-js/echarts-china-cities-js/*.js',
+  './node_modules/echarts-china-misc-js/echarts-china-misc-js/*.js',
+  './node_modules/echarts-united-kingdom-js/echarts-united-kingdom-js/*.js'
 ]
        
 gulp.task('default', function(){
