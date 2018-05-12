@@ -17,5 +17,8 @@
     "gulp-rename": "^1.2.2",
     "jupyter-echarts": "^1.3.7"
   },
-  "dependencies": {}
+  "dependencies": {
+    "echarts-china-counties-js": "^1.0.0",
+    "echarts-themes-js": "^1.0.0"
+  }
 }
