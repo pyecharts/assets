@@ -1,6 +1,6 @@
 {
   "name": "pyecharts-assets",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "All javascript assets known in pyecharts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

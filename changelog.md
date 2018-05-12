@@ -1,5 +1,9 @@
 # Change log
 
+## 1.0.2 - 12.05.2018
+
+adding echarts-china-counties-js and echarts-themes-js
+
 ## 1.0.1 - 10.03.2018
 
 adding echarts-china-misc-js and echarts-united-kingdom-js
